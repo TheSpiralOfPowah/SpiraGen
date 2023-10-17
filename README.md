@@ -12,3 +12,8 @@ It was made with python in visual studio code, and it was tough.
 # Changelog
 - V1.0: Added checker.
 - V0.5: Added generator.
+# HOW TO USE
+- Download visual studio code and python from the microsoft store.
+- Download the SpiraGen-V1.0.py file.
+- Run it in visual studio code or another python terminal you'd prefer.
+- Input the amount of codes and the length of each code.
