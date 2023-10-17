@@ -17,3 +17,5 @@ It was made with python in visual studio code, and it was tough.
 - Download the SpiraGen-V1.0.py file.
 - Run it in visual studio code or another python terminal you'd prefer.
 - Input the amount of codes and the length of each code.
+
+`This was made for educational purposes only. USE AT YOUR OWN RISK!`
