@@ -10,6 +10,7 @@ It was made with python in visual studio code, and it was tough.
 - Threading.
 - Webhooks support.
 # Changelog
+- v1.1: Added the ability to press Q and view current valid codes
 - V1.0: Added checker.
 - V0.5: Added generator.
 # HOW TO USE
