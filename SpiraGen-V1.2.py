@@ -7,11 +7,11 @@ import keyboard
 # You can edit the things in this block until it reaches the "Stop Here" comment. If you edit beyond the stop comment, you will likely f░░k something up.
 
 # If you have webhooks enabled (True/False), you need to put in the webhook link.
-webhooks = True
-webhook_url = "https://discord.com/api/webhooks/1164389942915506186/993w3HETLSFnxoXq88vEtcabanExYsAUyh5Vxl4nXKMnCv9pqSeeZon8OwwnqA8HVqEP"
+webhooks = False
+webhook_url = "https://discord.com/api/webhooks/.../..."
 
 # This shows advanced info for checking the codes if True.
-Debug_info = True
+Debug_info = False
 
 # Stop here. This is where you can't edit. Beyond this point, you aren't allowed to edit anything else. This is the no-go zone.
 
