@@ -71,7 +71,7 @@ def generate_random_string(length):
 # Generates the desired strings
 for _ in range(int(amount)):  
     random_string = generate_random_string(int(length))
-    doggo = requests.get("https://discord.com/api/v8/entitlements/gift-codes/"+random_string)
+    doggo = requests.get("https://discord.com/api/v9/entitlements/gift-codes/"+random_string)
     if Debug_info:
         print("\033[37mDebug info: " + str(doggo) + str(doggo.headers))
     # Time to check the codes!
